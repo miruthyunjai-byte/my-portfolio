@@ -1,6 +1,6 @@
 # S M Miruthyunjai Portfolio
 
-A responsive React + Vite portfolio prepared for GitHub Pages at `https://miruthyunjai-codes.github.io/miruthyunjai-codes/`.
+A responsive React + Vite portfolio prepared for GitHub Pages at `https://miruthyunjai-byte.github.io/my-portfolio/`.
 
 ## Run locally
 
@@ -19,10 +19,10 @@ The form opens the visitor’s mail application when no endpoint is configured. 
 
 ## Publish to GitHub Pages
 
-1. Create or use the `miruthyunjai-codes` repository under the `miruthyunjai-codes` GitHub account.
+1. Use the `my-portfolio` repository under the `miruthyunjai-byte` GitHub account.
 2. Commit and push the project to the `main` branch: `git add .`, `git commit -m "Create portfolio site"`, then `git push -u origin main`.
 3. In the GitHub repository, open **Settings → Pages** and set the source to **GitHub Actions**.
-4. The included workflow builds and deploys automatically. Once it completes, the expected URL is `https://miruthyunjai-codes.github.io/miruthyunjai-codes/`.
+4. The included workflow builds and deploys automatically. Once it completes, the expected URL is `https://miruthyunjai-byte.github.io/my-portfolio/`.
 
 ## Update project links
 
